@@ -1,0 +1,61 @@
+# Results of fit:
+#   Algorithm: Levenberg-Marquardt: status = 1 -- SUCCESS: Convergence in fit-statistic value.
+#   Fit statistic: chi-squared (user-supplied errors)
+#   Best-fit value: 20894.741438
+#   Reduced value: 0.567098
+#   AIC: 20974.830462
+#   BIC: 21315.363847
+
+X0		101.0646 # +/- 0.0144
+Y0		100.3247 # +/- 0.0097
+FUNCTION Sersic
+PA		      0 # +/- 0
+ell		      0 # +/- 0
+n		      1 # +/- 0
+I_e		0.867827 # +/- 0.01045
+r_e		2.11323 # +/- 0.023458
+FUNCTION Exponential
+PA		1690.64 # +/- 0
+ell		0.317404 # +/- 0
+I_0		0.376565 # +/- 0.0082741
+h		7.66965 # +/- 0.067144
+FUNCTION SpiralArm0b
+PA		1690.64 # +/- 0
+ell		0.317404 # +/- 0
+r_0		3.15501 # +/- 0.81775
+phi_0		-85.4016 # +/- 1.2131
+r_end		39.0554 # +/- 0
+phi_end		-243.608 # +/- 9.1942
+mu_a_2		 -1.054 # +/- 0.74599
+mu_a_3		-1.09664 # +/- 1.4018
+mu_a_4		-5.66594 # +/- 0.96771
+I_0		2.31285 # +/- 0.39089
+part_growth		    0.4 # +/- 0
+h_s		4.02234 # +/- 0.22057
+part_cutoff		   0.25 # +/- 0
+width		7.85606 # +/- 0
+w_asymm		0.419788 # +/- 0.17582
+n_out		0.300272 # +/- 0.040835
+n_in		      1 # +/- 0
+gamma_out		-0.281038 # +/- 0.24627
+gamma_in		      3 # +/- 0
+FUNCTION SpiralArm0b
+PA		1690.64 # +/- 0
+ell		0.317404 # +/- 0
+r_0		8.16902 # +/- 1.6858
+phi_0		83.2012 # +/- 4.0356
+r_end		23.3738 # +/- 1.2963
+phi_end		-85.8669 # +/- 0
+mu_a_2		0.0988272 # +/- 0.61072
+mu_a_3		-1.57815 # +/- 0.49212
+mu_a_4		-1.56425 # +/- 0.65249
+I_0		0.603609 # +/- 0.031236
+part_growth		0.332018 # +/- 0.039837
+h_s		8.65118 # +/- 0.25447
+part_cutoff		0.06557 # +/- 0.010524
+width		7.85606 # +/- 0
+w_asymm		-0.45545 # +/- 0.02603
+n_out		      1 # +/- 0
+n_in		      1 # +/- 0
+gamma_out		      3 # +/- 0
+gamma_in		-0.216623 # +/- 0.42826

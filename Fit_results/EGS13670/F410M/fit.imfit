@@ -1,0 +1,81 @@
+# Results of fit:
+#   Algorithm: Levenberg-Marquardt: status = 1 -- SUCCESS: Convergence in fit-statistic value.
+#   Fit statistic: chi-squared (user-supplied errors)
+#   Best-fit value: 37729.686921
+#   Reduced value: 0.965620
+#   AIC: 37829.817449
+#   BIC: 38258.410211
+
+X0		100.2314 # +/- 0.0075
+Y0		100.5448 # +/- 0.0066
+FUNCTION Sersic
+PA		      0 # +/- 0
+ell		      0 # +/- 0
+n		      1 # +/- 0
+I_e		2.33635 # +/- 0.019675
+r_e		2.61988 # +/- 0.026336
+FUNCTION Exponential
+PA		      0 # +/- 0
+ell		      0 # +/- 0
+I_0		1.65192 # +/- 0.038317
+h		6.03762 # +/- 0.06018
+FUNCTION SpiralArm0b
+PA		      0 # +/- 0
+ell		      0 # +/- 0
+r_0		16.0096 # +/- 0.47951
+phi_0		-177.542 # +/- 1.2314
+r_end		19.5389 # +/- 0.61017
+phi_end		-37.466 # +/- 1.1876
+mu_a_2		2.70202 # +/- 0.11179
+mu_a_3		      0 # +/- 0
+mu_a_4		      0 # +/- 0
+I_0		0.494141 # +/- 0.11315
+part_growth		 0.2014 # +/- 0.0239
+h_s		45.3013 # +/- 49.104
+part_cutoff		0.253597 # +/- 0.017757
+width		8.88623 # +/- 0
+w_asymm		      0 # +/- 0
+n_out		    0.5 # +/- 0
+n_in		    0.5 # +/- 0
+gamma_out		      0 # +/- 0
+gamma_in		      0 # +/- 0
+FUNCTION SpiralArm0b
+PA		      0 # +/- 0
+ell		      0 # +/- 0
+r_0		15.9231 # +/- 1.0518
+phi_0		41.9362 # +/- 0.76436
+r_end		18.9043 # +/- 0
+phi_end		250.415 # +/- 0.92369
+mu_a_2		-1.35392 # +/- 0.16683
+mu_a_3		-4.82397 # +/- 0.16387
+mu_a_4		-0.0276761 # +/- 0.17066
+I_0		1.05032 # +/- 0.036437
+part_growth		    0.4 # +/- 0
+h_s		14.2139 # +/- 0.26162
+part_cutoff		    0.3 # +/- 0
+width		8.10579 # +/- 0.16459
+w_asymm		-0.376493 # +/- 0.022923
+n_out		      1 # +/- 0
+n_in		   0.25 # +/- 0
+gamma_out		-0.915336 # +/- 0.12729
+gamma_in		2.78895 # +/- 0.16858
+FUNCTION SpiralArm0b
+PA		      0 # +/- 0
+ell		      0 # +/- 0
+r_0		17.0105 # +/- 0.31034
+phi_0		-146.246 # +/- 0.3665
+r_end		52.3155 # +/- 2.5242
+phi_end		56.3255 # +/- 2.5882
+mu_a_2		-0.0453546 # +/- 0.13854
+mu_a_3		0.438752 # +/- 0.080232
+mu_a_4		-0.135497 # +/- 0.12038
+I_0		40.8435 # +/- 2.9196
+part_growth		    0.4 # +/- 0
+h_s		6.04609 # +/- 0.083872
+part_cutoff		0.221844 # +/- 0.017273
+width		8.88623 # +/- 0
+w_asymm		-0.197556 # +/- 0.026832
+n_out		0.684158 # +/- 0.019274
+n_in		      1 # +/- 0
+gamma_out		     -1 # +/- 0
+gamma_in		     -1 # +/- 0
