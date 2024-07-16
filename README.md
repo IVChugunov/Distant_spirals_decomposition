@@ -12,7 +12,8 @@ A set of .csv files with measured parameters of a galaxy and its spiral arms.
 - - t_L: lookback time corresponding to z;
 - - λ_rf: rest-frame wavelength for a given filter and z;
 - - M_rf: absolute magnitude for rest-frame wavelength;
-- - M_F814W: absolute magnitude in F814W filter in rest-frame.
+- - M_F814W: absolute magnitude in F814W filter in rest-frame;
+- - R_25: optical radius (of 25 mag isophote) in rest-frame.
 - components_parameters.csv: components contribution to the total luminosity and the parameters of traditional components, in particular:
 - - D/T, B/T, Bar/T, R/T, S/T: the contribution of disc, bulge, bar, ring and spiral structure to the total luminosity, respectively
 - spirals_parameters.csv: parameters of the spiral structure, in particular:
