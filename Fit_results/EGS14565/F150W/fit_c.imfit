@@ -1,0 +1,63 @@
+# Results of fit:
+#   Algorithm: Levenberg-Marquardt: status = 1 -- SUCCESS: Convergence in fit-statistic value.
+#   Fit statistic: chi-squared (user-supplied errors)
+#   Best-fit value: 11137.826588
+#   Reduced value: 0.303004
+#   AIC: 11145.827677
+#   BIC: 11179.875468
+
+X0		112.4059 # +/- 0.0000
+Y0		78.2014 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.109686 # +/- 0	counts/pixel
+sigma		0.634155 # +/- 0	pixels
+
+X0		81.9634 # +/- 0.0000
+Y0		96.2308 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.169751 # +/- 0	counts/pixel
+sigma		0.916117 # +/- 0	pixels
+
+X0		85.2696 # +/- 0.0000
+Y0		93.8186 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.248602 # +/- 0	counts/pixel
+sigma		1.25957 # +/- 0	pixels
+
+X0		73.9000 # +/- 0.0000
+Y0		111.4254 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0205172 # +/- 0	counts/pixel
+sigma		  3.395 # +/- 0	pixels
+
+X0		108.5419 # +/- 0.0000
+Y0		116.1408 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0336629 # +/- 0	counts/pixel
+sigma		1.94663 # +/- 0	pixels
+
+X0		117.4406 # +/- 0.0000
+Y0		97.5534 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.158495 # +/- 0.063601	counts/pixel
+sigma		0.785881 # +/- 0.198	pixels
+
+X0		121.0000 # +/- 0.0000
+Y0		97.8446 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0216954 # +/- 0.0056925	counts/pixel
+sigma		3.12276 # +/- 0.53854	pixels

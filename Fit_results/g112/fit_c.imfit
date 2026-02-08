@@ -1,0 +1,271 @@
+# Results of fit:
+#   Algorithm: Levenberg-Marquardt: status = 1 -- SUCCESS: Convergence in fit-statistic value.
+#   Fit statistic: chi-squared (user-supplied errors)
+#   Best-fit value: 113698.577045
+#   Reduced value: 0.787408
+#   AIC: 113706.577322
+#   BIC: 113746.098415
+
+X0		114.1513 # +/- 0.0000
+Y0		181.0000 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0073743 # +/- 0	counts/pixel
+sigma		7.39371 # +/- 0	pixels
+
+X0		212.5504 # +/- 0.0000
+Y0		177.3044 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0793839 # +/- 0	counts/pixel
+sigma		0.89573 # +/- 0	pixels
+
+X0		220.3339 # +/- 0.0000
+Y0		183.4917 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0262581 # +/- 0	counts/pixel
+sigma		1.96261 # +/- 0	pixels
+
+X0		197.4335 # +/- 0.0000
+Y0		206.5160 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0145758 # +/- 0	counts/pixel
+sigma		2.55178 # +/- 0	pixels
+
+X0		196.0000 # +/- 0.0000
+Y0		269.0000 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.00645137 # +/- 0	counts/pixel
+sigma		     10 # +/- 0	pixels
+
+X0		247.6568 # +/- 0.0000
+Y0		146.0127 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0210658 # +/- 0	counts/pixel
+sigma		4.16942 # +/- 0	pixels
+
+X0		253.5364 # +/- 0.0000
+Y0		147.6151 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0600223 # +/- 0	counts/pixel
+sigma		1.15607 # +/- 0	pixels
+
+X0		237.2040 # +/- 0.0000
+Y0		146.1527 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0136592 # +/- 0	counts/pixel
+sigma		2.42788 # +/- 0	pixels
+
+X0		119.0000 # +/- 0.0000
+Y0		187.0000 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.00527742 # +/- 0	counts/pixel
+sigma		8.41073 # +/- 0	pixels
+
+X0		110.9522 # +/- 0.0000
+Y0		186.1614 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.00565385 # +/- 0	counts/pixel
+sigma		   0.25 # +/- 0	pixels
+
+X0		119.0000 # +/- 0.0000
+Y0		196.0000 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0175657 # +/- 0	counts/pixel
+sigma		5.60265 # +/- 0	pixels
+
+X0		117.0432 # +/- 0.0000
+Y0		194.9771 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		      0 # +/- 0	counts/pixel
+sigma		3.48046 # +/- 0	pixels
+
+X0		128.0000 # +/- 0.0000
+Y0		196.6994 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0974242 # +/- 0	counts/pixel
+sigma		3.32258 # +/- 0	pixels
+
+X0		134.0000 # +/- 0.0000
+Y0		202.0000 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0185493 # +/- 0	counts/pixel
+sigma		5.17546 # +/- 0	pixels
+
+X0		135.0518 # +/- 0.0000
+Y0		201.0241 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.000910885 # +/- 0	counts/pixel
+sigma		  4.991 # +/- 0	pixels
+
+X0		140.3297 # +/- 0.0000
+Y0		210.6876 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.00656088 # +/- 0	counts/pixel
+sigma		4.72783 # +/- 0	pixels
+
+X0		145.3682 # +/- 0.0000
+Y0		203.7624 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0389459 # +/- 0	counts/pixel
+sigma		1.04089 # +/- 0	pixels
+
+X0		205.7195 # +/- 0.0000
+Y0		188.0100 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0204565 # +/- 0	counts/pixel
+sigma		2.42044 # +/- 0	pixels
+
+X0		175.1334 # +/- 0.0000
+Y0		189.6241 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0226936 # +/- 0	counts/pixel
+sigma		2.69414 # +/- 0	pixels
+
+X0		176.6466 # +/- 0.0000
+Y0		197.8253 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0253744 # +/- 0	counts/pixel
+sigma		1.42998 # +/- 0	pixels
+
+X0		235.5578 # +/- 0.0000
+Y0		192.5407 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0307881 # +/- 0	counts/pixel
+sigma		  3.806 # +/- 0	pixels
+
+X0		234.7412 # +/- 0.0000
+Y0		190.6302 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0638524 # +/- 0	counts/pixel
+sigma		0.653054 # +/- 0	pixels
+
+X0		235.0043 # +/- 0.0000
+Y0		195.0604 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		      0 # +/- 0	counts/pixel
+sigma		2.96905 # +/- 0	pixels
+
+X0		240.8671 # +/- 0.0000
+Y0		204.5072 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0101615 # +/- 0	counts/pixel
+sigma		3.71538 # +/- 0	pixels
+
+X0		242.1080 # +/- 0.0000
+Y0		204.0240 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0030138 # +/- 0	counts/pixel
+sigma		   0.25 # +/- 0	pixels
+
+X0		175.7133 # +/- 0.0000
+Y0		250.0000 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0138108 # +/- 0	counts/pixel
+sigma		8.67678 # +/- 0	pixels
+
+X0		181.8938 # +/- 0.0000
+Y0		249.2126 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		      0 # +/- 0	counts/pixel
+sigma		3.01594 # +/- 0	pixels
+
+X0		175.6250 # +/- 0.0000
+Y0		256.0791 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0814533 # +/- 0	counts/pixel
+sigma		1.42583 # +/- 0	pixels
+
+X0		161.0000 # +/- 0.0000
+Y0		261.6176 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.009236 # +/- 0	counts/pixel
+sigma		5.02508 # +/- 0	pixels
+
+X0		152.0000 # +/- 0.0000
+Y0		267.0000 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.00206765 # +/- 0	counts/pixel
+sigma		9.84734 # +/- 0	pixels
+
+X0		183.0000 # +/- 0.0000
+Y0		270.3583 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0138294 # +/- 0	counts/pixel
+sigma		  2.579 # +/- 0	pixels
+
+X0		185.0347 # +/- 0.0000
+Y0		264.0698 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.124528 # +/- 0	counts/pixel
+sigma		0.303594 # +/- 0	pixels
+
+X0		179.3757 # +/- 0.5424
+Y0		268.4605 # +/- 0.5349
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0351057 # +/- 0.039757	counts/pixel
+sigma		0.859914 # +/- 0.53869	pixels

@@ -1,0 +1,79 @@
+# Results of fit:
+#   Algorithm: Levenberg-Marquardt: status = 1 -- SUCCESS: Convergence in fit-statistic value.
+#   Fit statistic: chi-squared (user-supplied errors)
+#   Best-fit value: 73287.195219
+#   Reduced value: 0.814338
+#   AIC: 73295.195663
+#   BIC: 73332.825479
+
+X0		136.3036 # +/- 0.0000
+Y0		159.8008 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0407187 # +/- 0	counts/pixel
+sigma		1.14608 # +/- 0	pixels
+
+X0		141.6567 # +/- 0.0000
+Y0		128.8815 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0151847 # +/- 0	counts/pixel
+sigma		1.46934 # +/- 0	pixels
+
+X0		137.6993 # +/- 0.0000
+Y0		131.7718 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0121261 # +/- 0	counts/pixel
+sigma		1.22127 # +/- 0	pixels
+
+X0		180.7024 # +/- 0.0000
+Y0		142.2048 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0105705 # +/- 0	counts/pixel
+sigma		3.18134 # +/- 0	pixels
+
+X0		161.3880 # +/- 0.0000
+Y0		158.2110 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0221057 # +/- 0	counts/pixel
+sigma		1.97432 # +/- 0	pixels
+
+X0		188.3313 # +/- 0.0000
+Y0		153.3133 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.00847566 # +/- 0	counts/pixel
+sigma		3.84498 # +/- 0	pixels
+
+X0		185.0920 # +/- 0.0000
+Y0		159.9097 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0151696 # +/- 0	counts/pixel
+sigma		1.54177 # +/- 0	pixels
+
+X0		168.5113 # +/- 0.0000
+Y0		163.7885 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.0247324 # +/- 0	counts/pixel
+sigma		1.64018 # +/- 0	pixels
+
+X0		128.9733 # +/- 0.3048
+Y0		168.4005 # +/- 0.2968
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.10591 # +/- 0.044839	counts/pixel
+sigma		1.02172 # +/- 0.27329	pixels

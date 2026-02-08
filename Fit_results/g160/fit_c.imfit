@@ -1,0 +1,39 @@
+# Results of fit:
+#   Algorithm: Levenberg-Marquardt: status = 1 -- SUCCESS: Convergence in fit-statistic value.
+#   Fit statistic: chi-squared (user-supplied errors)
+#   Best-fit value: 81306.904938
+#   Reduced value: 0.680922
+#   AIC: 81314.905273
+#   BIC: 81353.666244
+
+X0		227.1427 # +/- 0.0000
+Y0		82.9435 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.010339 # +/- 0	counts/pixel
+sigma		4.19206 # +/- 0	pixels
+
+X0		257.2831 # +/- 0.0000
+Y0		103.2808 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.00726412 # +/- 0	counts/pixel
+sigma		8.80638 # +/- 0	pixels
+
+X0		259.1422 # +/- 0.0000
+Y0		109.4040 # +/- 0.0000
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.054032 # +/- 0	counts/pixel
+sigma		0.817457 # +/- 0	pixels
+
+X0		142.8422 # +/- 0.6493
+Y0		264.1102 # +/- 0.5975
+FUNCTION Gaussian
+PA		      0 # +/- 0	deg (CCW from +y axis)
+ell		      0 # +/- 0
+I_0		0.014771 # +/- 0.0036674	counts/pixel
+sigma		3.07238 # +/- 0.46733	pixels
